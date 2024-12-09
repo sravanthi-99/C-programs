@@ -1,4 +1,4 @@
-//print all numbers from 1 to n
+//sum of all elements
 #include<stdio.h>
 int main() 
 {
