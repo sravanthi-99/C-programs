@@ -3,7 +3,6 @@
 int main() 
 {
     int a[10],max, min,i, n;
-    float avg;
     scanf("%d", &n);
     for(i=0;i<n;i++)
     {
