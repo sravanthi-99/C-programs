@@ -1,6 +1,6 @@
 // given number is prime or not 
 #include<stdio.h>
-void main()
+int main()
 {
     int count=0;
     int i,n;
@@ -21,4 +21,5 @@ void main()
     {
         printf("not prime");
     }
+    return 0;
 }
